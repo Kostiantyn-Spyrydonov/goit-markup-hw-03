@@ -167,6 +167,7 @@ hero section */
   padding: 16px 32px;
   border-radius: 4px;
   border: none;
+  min-width: 169px;
 }
 
 .hero-button:hover,
@@ -238,7 +239,7 @@ hero section */
 }
 
 .team-list-content-container {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .team-list-title {
